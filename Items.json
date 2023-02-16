@@ -1,0 +1,1179 @@
+[
+  {
+    "name": "Abyssal Bracers",
+    "extra": "Ferrumancer: Casting an ability grants 3 magical power and 3 physical armor for 5s, stacking up to 5 times.",
+    "magicalPower": 20,
+    "physicalArmor": 15
+  },
+  {
+    "name": "Alchemical Rod",
+    "extra": "Font: Killing an Enemy Minion grants 4 bonus mana, up to a maximum of 400. At maximum stacks, gain 10 ability haste.",
+    "magicalPower": 20,
+    "mana": 200
+  },
+  {
+    "name": "Ashbringer",
+    "extra": "Clockwork: Basic Attacks against Enemy Heroes decrease your current basic ability cooldowns by 0.25s. This effect is doubled when you deal a Critical Strike.Honed Strikes: Basic attacks deal 20 bonus physical damage on-hit.Desolate: Your physical damage ignores 35% of your target's physical armor (Before Penetration).",
+    "physicalPower": 30,
+    "attackSpeed": 25,
+    "ablityHaste": 10,
+    "critcalChance": 20
+  },
+  {
+    "name": "Assassin Crest",
+    "extra": "Legendary Rogue: Restore 4 health each time you deal damage to an Enemy Hero or Monster with an ability (once per ability), or 6 health when killing an Enemy Unit. Upon restoring 300 health, return to base to evolve into a Legendary Crest.Creep Slayer: Deal 15 extra basic damage to Minions.",
+    "physicalPower": 12,
+    "ablityHaste": 10,
+    "physicalPenetration": 4
+  },
+  {
+    "name": "Astral Catalyst",
+    "extra": "Spellslinger: Using an ability grants you 3% increased magical power for 3s, stacking up to 3 times.Ravenous: Takedowns refund 20% of your ultimate's total cooldown.",
+    "magicalPower": 60,
+    "mana": 300,
+    "ablityHaste": 25
+  },
+  {
+    "name": "Augmentation",
+    "extra": "True Strikes: Basic attacks deal (+30% Base Physical Power) bonus true damage on-hit.Overclocked: Upon casting your ultimate, gain 15% movement speed for 6s - 20s CD.",
+    "physicalPower": 20,
+    "health": 300,
+    "attackSpeed": 40
+  },
+  {
+    "name": "Azure Core",
+    "extra": "Font: Killing an Enemy Minion grants 4 bonus mana per stack, up to a maximum of 400. At maximum stacks, gain 10 ability haste.Arcane Magic: Grants bonus magical power equal to (+4% Maximum Mana).",
+    "magicalPower": 50,
+    "mana": 350,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Banded Emerald",
+    "extra": "",
+    "health": 275
+  },
+  {
+    "name": "Barbaric Cleaver",
+    "extra": "Cleave: Basic attack deal an additional (+25% Total Physical Power) physical damage in a small area around the Target. Damage ranges from 100% to 50% based on distance between Targets.",
+    "physicalPower": 20
+  },
+  {
+    "name": "Barbed Pauldron",
+    "extra": "Stifle: When hit by a basic attack, reduce the Source's total attack speed by 3% for 3s, stacking up to 5 times.",
+    "physicalArmor": 25
+  },
+  {
+    "name": "Basilisk",
+    "extra": "Corrode: Dealing damage to an Enemy Hero reduces their physical armor by 5% for 2s. Stacks up to 6 times.Eminence: Your basic attacks against Targets with 6 stacks of Corrode deal 4% of the their missing health as bonus physical damage.",
+    "physicalPower": 35,
+    "health": 250,
+    "ablityHaste": 20
+  },
+  {
+    "name": "Blood Tome",
+    "extra": "",
+    "magicalPower": 20,
+    "magicalLifesteal": 5
+  },
+  {
+    "name": "Bloodletter",
+    "extra": "",
+    "physicalPower": 20,
+    "omnivamp": 5
+  },
+  {
+    "name": "Bonesaw",
+    "extra": "Colossal Sunder: Every third consecutive basic attack deals (+3% Maximum Health) bonus physical damage on-hit and slows the target by 20% for 1s.Flurry: Dealing damage with Colossal Sunder grants 8% attack speed for 5s, stacking up to 6 times.",
+    "physicalPower": 25,
+    "health": 400
+  },
+  {
+    "name": "Breach",
+    "extra": "Shatter: Deal 50% bonus damage to Shielded Targets as physical damage.",
+    "physicalPower": 50,
+    "physicalPenetration": 10,
+    "ablityHaste": 20
+  },
+  {
+    "name": "Brimstone",
+    "extra": "Blaze: Deal 12 magical damage per second to nearby Enemies, increased by 100% against Monsters.",
+    "health": 150,
+    "mana": 200
+  },
+  {
+    "name": "Brutallax",
+    "extra": "Active - Purifying Rage: Cleanse all Debuffs, then gain 60% tenacity and 30% attack speed for 8s. Successful basic attacks extend this duration by 0.5s on-hit - 150s CD.Creep Slayer: Deal 30 extra basic damage to Minions.",
+    "physicalPower": 20,
+    "health": 125,
+    "lifesteal": 8
+  },
+  {
+    "name": "Caustica",
+    "extra": "Magus: While above 50% maximum mana, gain 20% magical penetration.Arcane Resolve: While below 50% maximum mana, gain (+1% Maximum Mana) mana regeneration per second.",
+    "magicalPower": 80,
+    "magicalPenetration": 20
+  },
+  {
+    "name": "Cerulean Stone",
+    "extra": "",
+    "physicalArmor": 15,
+    "mana": 200,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Champion Crest",
+    "extra": "Legendary Warrior: Upon dealing damage to an Enemy Hero or Monster, or killing an Enemy Unit, regenerate (+3.5% Maximum Health) over 15s. Upon restoring 600 health, return to base to evolve into a Legendary Crest.Creep Slayer: Deal 15 extra basic damage to Minions.",
+    "physicalPower": 10,
+    "health": 100
+  },
+  {
+    "name": "Chaotic Core",
+    "extra": "",
+    "magicalPower": 50,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Chronomatic Wand",
+    "extra": "",
+    "magicalPower": 20,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Citadel",
+    "extra": "Fortification: Gain 10 physical armor for each nearby Enemy Hero.Intimidation: Nearby Enemy Heroes have their physical armor decreased by 20%.",
+    "physicalPower": 35,
+    "health": 200,
+    "physicalArmor": 35
+  },
+  {
+    "name": "Claymore",
+    "extra": "Sunder: Every third consecutive basic attack deals 15 (+3% of Bonus Health) bonus physical damage and slows the Target by 10% for 1s.",
+    "physicalPower": 10,
+    "health": 120
+  },
+  {
+    "name": "Codex",
+    "extra": "",
+    "magicalPower": 15
+  },
+  {
+    "name": "Combustion",
+    "extra": "Pyro: Your next instance of ability damage will deal 70 + 18% bonus magical damage to the Target and nearby Enemies - 12s CD.Pyromaniac: Damaging Enemy Heroes reduces the cooldown of Pyro by 0.5s.",
+    "magicalPower": 70,
+    "magicalPenetration": 10,
+    "mana": 300
+  },
+  {
+    "name": "Composite Bow",
+    "extra": "Honed Strikes: Basic attacks deal 12 bonus physical damage on-hit.",
+    "attackSpeed": 20
+  },
+  {
+    "name": "Compound Potion",
+    "extra": "Consume: Regenerates 6 health and 3 mana per second for 15s, restoring a total of 90 health and 45 mana."
+  },
+  {
+    "name": "Consort Crest",
+    "extra": "Consort: Your next basic attack or damaging ability against an Enemy Target will deal 10 additional magic damage and grant you 25 gold. Charges generate every 30s, up to a maximum of 3, and require a nearby Allied Hero within 3000u to activate. Upon granting 300 gold, evolves into Keeper Crest.Pacifist: Receive diminishing gold from excessive Minion kills.",
+    "magicalPower": 5,
+    "baseManaRegeneration": 25
+  },
+  {
+    "name": "Crimson Edge",
+    "extra": "",
+    "physicalPower": 15,
+    "lifesteal": 5
+  },
+  {
+    "name": "Crossbow",
+    "extra": "",
+    "critcalChance": 15
+  },
+  {
+    "name": "Crystal Tear",
+    "extra": "Elation: Healing or Shielding Allied Heroes grants you both 40 magical power and 20 ability haste for 5s.",
+    "magicalPower": 30,
+    "baseManaRegeneration": 225,
+    "ablityHaste": 10,
+    "healAndShieldPower": 15
+  },
+  {
+    "name": "Crystalline Cuirass",
+    "extra": "Volatile: When you take ability damage, release a pulse of energy dealing 20 (+3% Maximum Health) magical damage to all nearby Enemies - 1.5s CD.",
+    "health": 200,
+    "magicalArmor": 70,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Demolisher",
+    "extra": "First Strike: Your first basic attack when entering combat deals 35% additional physical damage. Takedowns refresh this effect.Desolate: Your physical damage ignores 35% of your target's physical armor (Before Penetration).",
+    "physicalPower": 50,
+    "critcalChance": 20
+  },
+  {
+    "name": "Demon Edge",
+    "extra": "Demonic: While above 40% maximum health, gain (+15% Bonus Physical Power).Ceaseless: While below 40% maximum health, gain 10% omnivamp.Desolate: Your physical damage ignores 35% of your target's physical armor (Before Penetration).",
+    "physicalPower": 45
+  },
+  {
+    "name": "Diffusal Cane",
+    "extra": "",
+    "magicalPower": 35,
+    "magicalPenetration": 8
+  },
+  {
+    "name": "Divine Wreath",
+    "extra": "",
+    "magicalPower": 15,
+    "baseManaRegeneration": 75,
+    "healAndShieldPower": 10
+  },
+  {
+    "name": "Draconum",
+    "extra": "Surge: Taking or dealing damage generates 2 physical power and 2% increased Healing, stacking up to 10 times. Stacks are lost out of combat.Flow: Takedowns restore 12% of your missing health and grant you 3% Attack Speed per stack of Surge for 8s.",
+    "physicalPower": 35,
+    "physicalArmor": 35,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Dread",
+    "extra": "Voracity: Killing an Enemy Target restores 5% of your missing health, increased to 25% for Enemy Heroes.Celerity: Gain 10% bonus movement speed out of combat.",
+    "physicalPower": 40,
+    "physicalPenetration": 10,
+    "magicalArmor": 30,
+    "baseManaRegeneration": 150
+  },
+  {
+    "name": "Dreambinder",
+    "extra": "Chilling Spells: Damaging abilities Slow affected Units by 25% for 1.5s.Thaw: Abilities deal 10% additional damage to Slowed Enemy Heroes.",
+    "magicalPower": 80,
+    "health": 250,
+    "movementSpeed": 15
+  },
+  {
+    "name": "Dusk Stave",
+    "extra": "",
+    "magicalPower": 25,
+    "mana": 150,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Dust Devil",
+    "extra": "Menace: Critical Strikes grant 3% attack speed for 5s, stacking up to 6 times. At maximum stacks, gain 30 physical power and 15% movement speed.",
+    "physicalPower": 30,
+    "attackSpeed": 20,
+    "critcalChance": 20,
+    "movementSpeed": 3
+  },
+  {
+    "name": "Dynamo",
+    "extra": "Immobilizer: Immobilizing an Enemy deals 30 (+4% Maximum Health) bonus magical damage to the Target and nearby Enemies, shredding their physical armor and magical armor by 30% for 4s. Damage is increased by 200% against Monsters - 12s CD.",
+    "health": 300,
+    "physicalArmor": 55,
+    "mana": 200
+  },
+  {
+    "name": "Elafrost",
+    "extra": "Frostbite: Basic attacks Slow Enemies by 3% for 2s, stacking up to 8 times. Melee basic attacks apply 2 stacks. Frostfang: Applying 8 stacks of Frostbite to a Target deals an additional (+10% Maximum Mana) magical damage and Roots them for 1s - 8s CD per Target.",
+    "magicalPower": 30,
+    "health": 200,
+    "mana": 300,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Energy Stream",
+    "extra": "",
+    "baseManaRegeneration": 50
+  },
+  {
+    "name": "Epoch",
+    "extra": "Active - Stasis Device: Enter Stasis for 2.5s, rendering yourself Invulnerable for the duration but unable to move, attack or use abilities - 120s CD.Creep Slayer: Deal 40 extra basic damage to Minions.",
+    "magicalPower": 25,
+    "mana": 150,
+    "magicalPenetration": 8,
+    "health": 100
+  },
+  {
+    "name": "Essence Ring",
+    "extra": "",
+    "baseManaRegeneration": 125,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Eviscerator",
+    "extra": "Active - Rending Strikes: Upon activation, gain 10% attack speed and empower your basic attacks to deal (+15% Total Physical Power) true damage on-hit for 6s, increasing by (+5% Total Physical Power) for each successful hit against Enemy Heroes - 90s CD.Creep Slayer: Deal 30 extra basic damage to Minions.",
+    "physicalPower": 12,
+    "attackSpeed": 20,
+    "critcalChance": 20
+  },
+  {
+    "name": "Fell Blade",
+    "extra": "Corrode: Dealing damage to an Enemy Hero reduces their physical armor by 5% for 2s. Stacks up to 6 times.Virulence: Your abilities deal 20% bonus true damage against Targets with 6 stacks of Corrode.",
+    "physicalPower": 40,
+    "physicalPenetration": 10,
+    "ablityHaste": 20
+  },
+  {
+    "name": "Fenix",
+    "extra": "Active - Rebirth: Mark your current location and resurrect at the mark with 40% maximum health and mana should you die within the next 4s - 210s CD.Creep Slayer: Deal 30 extra basic damage to Minions.",
+    "physicalPower": 30,
+    "health": 100
+  },
+  {
+    "name": "Fire Blossom",
+    "extra": "Heatwave: Deal 15 (+1.5% Bonus Health) magical damage per second to nearby Enemies, increased by 100% against Immobilized Targets, and 100% against Monsters.",
+    "health": 225,
+    "mana": 200,
+    "physicalArmor": 40
+  },
+  {
+    "name": "Flourishing Totem",
+    "extra": "Bloom: Gain 2 magical power when damaging Enemy Heroes with an ability (3s CD), stacking up to 15 times. At maximum stacks, gain an additional 20 magical power. Lose all stacks on death.",
+    "magicalPower": 20,
+    "mana": 250
+  },
+  {
+    "name": "Flux Matrix",
+    "extra": "Unstable Shackles: Nearby Enemy Heroes take 15% additional magical damage and have their tenacity decreased by 20%.",
+    "health": 350,
+    "magicalArmor": 35,
+    "ablityHaste": 20
+  },
+  {
+    "name": "Fortified Mantle",
+    "extra": "",
+    "physicalPower": 15,
+    "physicalArmor": 15
+  },
+  {
+    "name": "Frostguard",
+    "extra": "Chilling Presence: Slow nearby Enemies by 10% and apply a stack of Stifle every 0.5s.Stifle: When hit by a basic attack, reduce the Source's total attack speed by 3% for 3s, stacking up to 5 times.",
+    "health": 200,
+    "physicalArmor": 50,
+    "mana": 250,
+    "ablityHaste": 15
+  },
+  {
+    "name": "Galaxy Greaves",
+    "extra": "ZeroG: Moving generates stacks of ZeroG, at 100 stacks your next jump will have increased height.Celerity: Gain 10% bonus movement speed out of combat.",
+    "physicalArmor": 30,
+    "magicalArmor": 30,
+    "baseManaRegeneration": 100,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Golem's Gift",
+    "extra": "Stone Skin: Gain 30 magical power and 30 physical armor. Whenever you take physical damage from an Enemy Hero, decrease both bonuses by 6. This effect resets to full when you leave combat.",
+    "magicalPower": 70,
+    "physicalArmor": 30,
+    "ablityHaste": 20
+  },
+  {
+    "name": "Goliath Crest",
+    "extra": "Legendary Titan: After taking damage, heal 15 (+0.75% of Maximum Health) over 15s. This healing is doubled for 5s after killing an Enemy Unit. Upon restoring 400 health, return to base to evolve into a Legendary Crest.Creep Slayer: Deal 30 extra basic damage to Minions.",
+    "health": 150,
+    "baseHealthRegeneration": 25
+  },
+  {
+    "name": "Greatsword",
+    "extra": "",
+    "physicalPower": 30
+  },
+  {
+    "name": "Guardian Crest",
+    "extra": "Guardian: Your next basic attack or damaging ability against an Enemy Target will restore 20 health and grant you 25 gold. Charges generate every 30s, up to a maximum of 3, and require a nearby Allied Hero within 3000u to activate. Upon granting 300 gold, evolves into Warden Crest.Pacifist: Receive diminishing gold from excessive Minion kills.",
+    "health": 40,
+    "baseHealthRegeneration": 25
+  },
+  {
+    "name": "Hallowed Braid",
+    "extra": "Elegy: Hero Deaths grant a stack of Elegy, up to a maximum of 20. Each stack grants 1 magical power and 10% base mana regeneration.",
+    "health": 150,
+    "baseManaRegeneration": 50
+  },
+  {
+    "name": "Health Potion",
+    "extra": "Consume: Regenerates 10 health per second for 15s, restoring a total of 150 health."
+  },
+  {
+    "name": "Heroic Guard",
+    "extra": "Bravery: Upon falling below 40% maximum health, Cleanse all Debuffs - 90s CD.",
+    "physicalPower": 20,
+    "magicalArmor": 15
+  },
+  {
+    "name": "Hexbound Bracers",
+    "extra": "Meditation: Gain 20 ability haste while above 60% maximum mana.Mana Reactor: Restore mana equal to 10% of the damage taken from Enemy Heroes.",
+    "physicalArmor": 50,
+    "mana": 400,
+    "ablityHaste": 15
+  },
+  {
+    "name": "Honed Kris",
+    "extra": "",
+    "physicalPower": 20,
+    "physicalPenetration": 4
+  },
+  {
+    "name": "Horned Plate",
+    "extra": "Blighted Skin: When hit by a basic attack, reduce the Source's Healing by 20% for 3s.",
+    "physicalArmor": 25
+  },
+  {
+    "name": "Iceskorn Talons",
+    "extra": "Active - Glacial Colosseum: Create a dueling zone around you in a large area that remains for 15s. Yourself and Allied Heroes within the zone gain 15% increased damage and 15% bonus movement speed for 3s. Enemy Units within the zone are Slowed by 15% - 40s CD.Creep Slayer: Deal 30 extra basic damage to Minions.",
+    "physicalPower": 15,
+    "health": 150,
+    "ablityHaste": 15
+  },
+  {
+    "name": "Imperator",
+    "extra": "Perfection: Gain 1 physical power per 4% critical strike chance.Precision: Critical Strikes deal 15% more damage.",
+    "physicalPower": 55,
+    "critcalChance": 20
+  },
+  {
+    "name": "Infernum",
+    "extra": "Cinder: Abilities burn Enemy Units, dealing an additional (+80% Total Physical Power) physical damage over 3s.",
+    "physicalPower": 40,
+    "health": 300,
+    "ablityHaste": 20
+  },
+  {
+    "name": "Intellect Tonic",
+    "extra": "Consume: Grants 50 magical power and 200% base mana regeneration for 5 minutes. Effect is lost upon death."
+  },
+  {
+    "name": "Ironwood Warbow",
+    "extra": "Zap: Every fourth successful basic attack deals 15 (+40% Bonus Physical Power) bonus magical damage.",
+    "physicalPower": 25,
+    "attackSpeed": 10
+  },
+  {
+    "name": "Keeper Crest",
+    "extra": "Legendary Consort: Your next basic attack or damaging ability against an Enemy Target will deal 15 additional magic damage and grant you 25 gold. Charges generate every 30s, up to a maximum of 3, and require a nearby Allied Hero within 3000u to activate. Upon granting 300 gold, return to base to evolve into a Legendary Crest.Pacifist: Receive diminishing gold from excessive Minion kills.Oracle: Gain Solstone upon completion of Legendary Consort.",
+    "magicalPower": 10,
+    "baseManaRegeneration": 50
+  },
+  {
+    "name": "Kingsbane",
+    "extra": "Order: Successful Basic Attacks against Enemy Heroes grant you a shield equal to 12% of the damage dealt for 3s.Regicide: Takedowns grant you a (+150% Total Physical Power) shield for 3s.",
+    "physicalPower": 45,
+    "lifesteal": 8,
+    "critcalChance": 20
+  },
+  {
+    "name": "Leafsong",
+    "extra": "Active - Phantom Rush: Increase the movement speed of yourself and nearby Allies by 50% for 4s. Heroes affected by Phantom Rush are immune to Slows and may pass through Enemy Heroes - 120 CD.Wealthy Pacifist: Increase Passive Gold Income by 50% and receive diminishing gold from excessive Minion kills.Visionary: Gain Solstone and increase your Ward Cap from 2 to 3.",
+    "health": 150,
+    "baseHealthRegeneration": 75,
+    "physicalArmor": 15,
+    "magicalArmor": 10
+  },
+  {
+    "name": "Legacy",
+    "extra": "Tenacious Bravery: Upon falling below 40% maximum health, Cleanse all Debuffs and gain 60% tenacity for 5s - 60s CD.Resolute: Gain 1 physical power for every 2% missing health, for a maximum of 30 physical power.",
+    "physicalPower": 40,
+    "magicalArmor": 30,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Liberator",
+    "extra": "Active - Purifying Guard: Cleanse all Debuffs and gain a 100 (+10 per level)(+150% Bonus Physical Power) shield for 2.5s - 150s CD.Creep Slayer: Deal 30 extra basic damage to Minions.",
+    "physicalPower": 10,
+    "attackSpeed": 15,
+    "critcalChance": 20,
+    "lifesteal": 5
+  },
+  {
+    "name": "Life Stream",
+    "extra": "",
+    "baseHealthRegeneration": 75
+  },
+  {
+    "name": "Lifebinder",
+    "extra": "Vital Bond: Gain (+0.5% bonus health) Ability Haste per 50 Magical Power.Magi: Achieving a Takedown grants 50 magical power for 8s.",
+    "magicalPower": 60,
+    "health": 200,
+    "magicalLifesteal": 10,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Lightning Hawk",
+    "extra": "Chilling Zap: Every fourth successful basic attack deals 30 (+100% Bonus Physical Power) bonus magical damage and Slows the Target by 35% for 0.5s.",
+    "physicalPower": 35,
+    "attackSpeed": 25,
+    "critcalChance": 20,
+    "movementSpeed": 3
+  },
+  {
+    "name": "Loch Shawl",
+    "extra": "RegenerationBlighted Veil: Receiving magical damage reduces the source's healing by 20% for 3s.",
+    "health": 150,
+    "magicalArmor": 15
+  },
+  {
+    "name": "Longbow",
+    "extra": "",
+    "attackSpeed": 10
+  },
+  {
+    "name": "Magician Crest",
+    "extra": "Magician: Restore 5 mana each time you deal damage to an Enemy Hero or Monster with an ability (once per ability), or 8 mana when killing an Enemy Unit. Upon restoring 400 mana, evolves into Wizard Crest.Creep Slayer: Deal 20 extra basic damage to Minions.",
+    "magicalPower": 10,
+    "mana": 50
+  },
+  {
+    "name": "Magnify",
+    "extra": "Shredding Strikes: Your basic attacks decrease the Target's magical armor by 6% for 3s, stacking up to 5 times.Magnifying Strikes: Basic attacks against Enemy Heroes grants you 8 magical power for 3s, stacking up to 5 times.",
+    "magicalPower": 60,
+    "attackSpeed": 30,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Malady",
+    "extra": "Parting Gift: Killing an Enemy Unit causes them to explode in a small radius, dealing (+30% of the Target's Maximum Health) as physical damage. Damage ranges from 100%-40% based on distance between Targets and is capped at 500 - 2s CD.Demise: Dealing damage to an Enemy Hero that is below 40% maximum health deals an additional 40 + 10% physical damage, increasing by 10 with each activation. Takedowns reset Demise's cooldown - 45s CD.",
+    "physicalPower": 45,
+    "physicalPenetration": 8,
+    "ablityHaste": 15
+  },
+  {
+    "name": "Malediction",
+    "extra": "Active - Cripple: Target a nearby Enemy Hero, Slowing them and reducing their total attack speed by 30% for 2.5s - 120s CD.Wealthy Pacifist: Increase Passive Gold Income by 50% and receive diminishing gold from excessive Minion kills.Visionary: Gain Solstone and increase your Ward Cap from 2 to 3.",
+    "magicalPower": 20,
+    "physicalArmor": 20,
+    "baseManaRegeneration": 75
+  },
+  {
+    "name": "Mana Potion",
+    "extra": "Consume: Restores 6 mana per second for 15s, restoring a total of 90 mana."
+  },
+  {
+    "name": "Marksman Crest",
+    "extra": "Marksman: Restore 1 health when landing successful basic attacks against an Enemy Heroes and Monsters, or 6 health when killing an Enemy Unit. Upon restoring 400 health, evolves into Sharpshooter Crest.Creep Slayer: Deal 15 extra basic damage to Minions.",
+    "physicalPower": 5,
+    "attackSpeed": 5
+  },
+  {
+    "name": "Marshal",
+    "extra": "Sheriff: Yourself and nearby Allied Heroes gain 20% attack speed and deal 15 (+1 per the Target's level) magical damage on-hit.",
+    "magicalPower": 45,
+    "baseManaRegeneration": 125,
+    "ablityHaste": 15
+  },
+  {
+    "name": "Megacosm",
+    "extra": "Disintegrate: Dealing damage to an Enemy Target with an ability deals 5% of their maximum health as magical damage over 3s. Additional applications within the duration deal 2.5% of their maximum health as magical damage instantly and refresh the duration.",
+    "magicalPower": 70,
+    "mana": 200,
+    "ablityHaste": 20
+  },
+  {
+    "name": "Mesmer",
+    "extra": "Vengeful Shroud: Grants a Spell Shield that blocks the next Enemy ability. Upon blocking an Enemy ability, gain 30 physical power for 3s - 60s CD.",
+    "physicalPower": 40,
+    "magicalArmor": 25,
+    "physicalPenetration": 8
+  },
+  {
+    "name": "Mindrazor",
+    "extra": "Ingenious Cleave: Dealing damage to an Enemy Unit with a basic attack or ability deals an additional (+25% Total Physical Power) physical damage in a small area around them. Damage ranges from 100% to 50% based on distance between Targets. DOT sources are excluded.Arcane Strength: Gain (+2.5% Maximum Mana) Physical Power.",
+    "physicalPower": 40,
+    "mana": 200,
+    "ablityHaste": 20
+  },
+  {
+    "name": "Mutilator",
+    "extra": "Mutilate: Basic attacks deal 1% of the Enemy Hero's maximum health as bonus physical damage. Applies twice on non-DOT abilities.Devour: Damaging an Enemy Hero with an ability steals 5% of their maximum health for 20s. Can only occur once per Target.",
+    "physicalPower": 40,
+    "ablityHaste": 20,
+    "omnivamp": 8
+  },
+  {
+    "name": "Nex",
+    "extra": "Active - Reap: Dash a short distance and deal (+100% Bonus Physical Power)(+100% of Sow) physical damage to all nearby Enemy Heroes and Slow them by 80% for 1s - 90s CD.Sow: Store 30% of damage dealt to Enemy Heroes (15% for AOE abilities) in the past 5s as Sow. Sow charges are expended upon using Reap.",
+    "physicalPower": 20,
+    "ablityHaste": 10,
+    "physicalPenetration": 10
+  },
+  {
+    "name": "Nightfall",
+    "extra": "Eclipse: Dealing damage to an isolated Enemy Hero grants 10% attack speed and 10 ability haste for 5s, stacking up to 3 times. At maximum stacks, gain 10% omnivamp.",
+    "physicalPower": 45,
+    "physicalPenetration": 8,
+    "omnivamp": 5
+  },
+  {
+    "name": "Nocstone",
+    "extra": "Warder: Wards last for 30s longer.",
+    "magicalPower": 5,
+    "ablityHaste": 5
+  },
+  {
+    "name": "Nullifying Mask",
+    "extra": "",
+    "magicalArmor": 25
+  },
+  {
+    "name": "Nyr Warboots",
+    "extra": "Active - Resilience: Gain 30% movement speed and store 45% of damage received for 5s. After the duration, regenerate health equal to the damage stored over 3s - 120s CD.Creep Slayer: Deal 40 extra basic damage to Minions.",
+    "health": 175,
+    "baseHealthRegeneration": 75,
+    "physicalArmor": 8,
+    "magicalArmor": 8
+  },
+  {
+    "name": "Oathkeeper",
+    "extra": "Celestial Spellblade: After using an ability, your next basic attack within 6s deals (+60% Total Physical Power)+ 50% bonus magical damage on-hit - 1.5s CD.",
+    "magicalPower": 70,
+    "health": 200,
+    "ablityHaste": 25
+  },
+  {
+    "name": "Obelisk",
+    "extra": "Active - Condemn: Enhance your next basic attack to deal 80 (+30% Magical Power)(+15 per Soul) additional magic damage. If a Target struck by Condemn dies within 4s, gain a Soul - 30s CD.Soul Stealer: When you achieve a Takedown, gain a Soul which permanently grants you 1 magical power.Creep Slayer: Deal 40 extra basic damage to Minions.",
+    "magicalPower": 35,
+    "health": 100,
+    "magicalPenetration": 8
+  },
+  {
+    "name": "Oblivion Crown",
+    "extra": "Annihilate: Increase your magical power by 15%.Oblivion: Your next instance of ability damage against an Enemy Hero will deal an additional 8% of their current health as magic damage and increase their magical damage taken by 10% for 3s - 30s CD.",
+    "magicalPower": 120
+  },
+  {
+    "name": "Occult Crest",
+    "extra": "Occultist: Restore 4 health each time you deal damage to an Enemy Hero or Monster with an ability (once per ability), or 6 health when killing an Enemy Unit. Upon restoring 300 health, evolves into Warlock Crest.Creep Slayer: Deal 20 extra basic damage to Minions.",
+    "magicalPower": 10,
+    "health": 40
+  },
+  {
+    "name": "Omen",
+    "extra": "Bestial Torment: Moving generates stacks of Torment. At 100 stacks, your next basic attack consumes them to deal 30 (+40% Bonus Physical Power) bonus physical damage and reduce your current basic ability cooldowns by 1.5s.",
+    "physicalPower": 45,
+    "physicalPenetration": 8,
+    "ablityHaste": 20
+  },
+  {
+    "name": "Ortus",
+    "extra": "Active - Limit Breaker: Upon activation, gain 20% decaying movement speed for 5s. During this time, your next 3 basic attacks or damaging abilities reduce current basic ability cooldowns by 1s and deal 30 (+25% Bonus Physical Power) bonus true damage - 90s CD.Creep Slayer: Deal 30 extra basic damage to Minions.",
+    "physicalPower": 15,
+    "ablityHaste": 15,
+    "physicalPenetration": 10
+  },
+  {
+    "name": "Overlord",
+    "extra": "Colossal Cleave: Basic attacks deal (+30% Total Physical Power)(+2% Maximum Health) physical damage in a small area around the Target. Damage ranges from 100%-50% based on the distance between Targets.Bludgeon: Basic attacks deal (+3.5% Bonus Health) physical damage on-hit.",
+    "physicalPower": 25,
+    "health": 350
+  },
+  {
+    "name": "Pacifier",
+    "extra": "Active - Adrenalize: Dash a short distance and empower your next basic attack within 6s to deal 40 (+20% Bonus Physical Power) additional physical damage, doubled against Targets below 40% maximum health. Killing an Enemy Hero within 6s allows Adrenalize to be recast for 10s - 120s CD.Creep Slayer: Deal 30 extra basic damage to Minions.",
+    "physicalPower": 15,
+    "attackSpeed": 10,
+    "critcalChance": 20,
+    "lifesteal": 5
+  },
+  {
+    "name": "Painweaver",
+    "extra": "Spellweaver: After using an ability your next basic attack within 6s deal (+50% Bonus Physical Power) bonus physical damage on-hit, increasing by up to 50% based on the Target's missing health - 1.5s CD.",
+    "physicalPower": 45,
+    "physicalPenetration": 12,
+    "ablityHaste": 15
+  },
+  {
+    "name": "Polar Treads",
+    "extra": "Celerity: Gain 5% bonus movement speed out of combat.",
+    "magicalArmor": 12,
+    "baseManaRegeneration": 75
+  },
+  {
+    "name": "Potent Staff",
+    "extra": "",
+    "magicalPower": 40
+  },
+  {
+    "name": "Prophecy",
+    "extra": "Magical Strikes: Basic attacks deal 15 (+20% Magical Power) bonus magical damage on-hit.Hasty: Gain (+60% Ability Haste)% attack speed.",
+    "magicalPower": 60,
+    "attackSpeed": 25,
+    "ablityHaste": 20
+  },
+  {
+    "name": "Protection Tonic",
+    "extra": "Consume: Grants 20 physical armor, 20 magical armor and 30% tenacity for 5 minutes. Effect is lost upon death."
+  },
+  {
+    "name": "Raiment of Renewal",
+    "extra": "Regenerator: Regenerate 15% of damage taken over 5s.Synthesis: Gain Health Regeneration equal to 1% of your bonus health.",
+    "health": 600,
+    "baseHealthRegeneration": 150,
+    "mana": 200,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Ravenous Rapier",
+    "extra": "Sever: Basic attacks against Enemy Heroes deal 2.5% of their current health as bonus physical damage on-hit.",
+    "physicalPower": 20,
+    "lifesteal": 5
+  },
+  {
+    "name": "Razorback",
+    "extra": "Active - Echidna: Reflect 50% of damage received from Enemy Heroes as true damage for 4s - 90s CD.Creep Slayer: Deal 40 extra basic damage to Minions.",
+    "health": 150,
+    "baseHealthRegeneration": 50,
+    "physicalArmor": 15,
+    "magicalArmor": 8
+  },
+  {
+    "name": "Reckoning",
+    "extra": "Critical Font: Killing an Enemy Minion grants 8 bonus mana, up to a maximum of 400. At maximum stacks, gain 2.5% of your bonus mana as additional critical strike chance.Arcane Strikes: Deal 3% of your maximum mana as bonus physical damage on-hit.",
+    "physicalPower": 45,
+    "mana": 200,
+    "critcalChance": 20
+  },
+  {
+    "name": "Refillable Potion",
+    "extra": "Consume: Restores 80 (+10 per level) health per second for 10s, restoring a total of 80-260 health.Max Charges: 2.Refill: Charges are restored upon visiting base."
+  },
+  {
+    "name": "Requiem",
+    "extra": "Elegy: When a Hero dies gain a stack of Elegy, up to a maximum of 20 stacks. Each stack grants 1 magical power and 10% base mana regeneration.Remembrance: Grant nearby Allies 1 physical power and 0.5% lifesteal per stack of Elegy.",
+    "magicalPower": 20,
+    "health": 200,
+    "baseManaRegeneration": 125,
+    "healAndShieldPower": 10
+  },
+  {
+    "name": "Rift Walkers",
+    "extra": "Active - Rift Snatcher: Dash forward a short distance and pull all nearby Enemy Heroes towards you. Enemies pulled by Rift Snatcher take 15% increased damage for 3s - 120s CD.Wealthy Pacifist: Increase Passive Gold Income by 50% and receive diminishing gold from excessive Minion kills.Visionary: Gain Solstone and increase your Ward Cap from 2 to 3.",
+    "magicalPower": 15,
+    "health": 150,
+    "baseHealthRegeneration": 100,
+    "mana": 100
+  },
+  {
+    "name": "Robust Arbalest",
+    "extra": "Swift: Basic attacking an Enemy Hero grants 3% movement speed for 3s.",
+    "critcalChance": 20,
+    "attackSpeed": 15
+  },
+  {
+    "name": "Rogue Crest",
+    "extra": "Rogue: Restore 4 health each time you deal damage to an Enemy Hero or Monster with an ability (once per ability), or 6 health when killing an Enemy Unit. Upon restoring 300 health, evolves into Assassin Crest.Creep Slayer: Deal 15 extra basic damage to Minions.",
+    "physicalPower": 8,
+    "ablityHaste": 5
+  },
+  {
+    "name": "Rune Bow",
+    "extra": "",
+    "attackSpeed": 30
+  },
+  {
+    "name": "Ruthless Broadsword",
+    "extra": "Corrode: Dealing damage to an Enemy Hero reduces their physical armor by 5% for 2s, stacking up to 6 times.",
+    "physicalPower": 20,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Sabre",
+    "extra": "",
+    "physicalPower": 15
+  },
+  {
+    "name": "Salvation",
+    "extra": "Aegis: Falling below 40% maximum health grants you a (+20% maximum health) shield (halved for Ranged Heroes) and 10% Omnivamp for 6s - 60s CD.",
+    "physicalPower": 35,
+    "health": 500,
+    "movementSpeed": 30
+  },
+  {
+    "name": "Sanctification",
+    "extra": "Active - Safeguard: Grants yourself and nearby Allied Heroes a 250 (+12% of Caster's Maximum Health) shield for 3s. While the shield holds, Heroes gain 60% tenacity - 120s CD.Wealthy Pacifist: Increase Passive Gold Income by 50% and receive diminishing gold from excessive Minion kills.Visionary: Gain Solstone and increase your Ward Cap from 2 to 3.",
+    "health": 200,
+    "baseHealthRegeneration": 75,
+    "baseManaRegeneration": 75
+  },
+  {
+    "name": "Saphir's Mantle",
+    "extra": "Active - Sturdy: Gain (+20% Maximum Health) bonus health for 6s. During this time, dealing damage Slows Enemies by 15% for 1s - 90 CD.Creep Slayer: Deal 40 extra basic damage to Minions.",
+    "health": 200,
+    "baseHealthRegeneration": 75,
+    "physicalArmor": 5,
+    "magicalArmor": 10
+  },
+  {
+    "name": "Scalding Sceptre",
+    "extra": "",
+    "magicalPower": 30,
+    "magicalPenetration": 20
+  },
+  {
+    "name": "Scepter",
+    "extra": "",
+    "magicalPower": 30
+  },
+  {
+    "name": "Serrated Blade",
+    "extra": "Blighted Strikes: Dealing physical damage reduces the Target's Healing by 20% for 3s.",
+    "physicalPower": 20
+  },
+  {
+    "name": "Severance",
+    "extra": "Swift Bravery: Upon falling below 40% maximum health, Cleanse all Debuffs and gain 20% movement speed for 3s - 60s CD.Determined: Gain 1% attack speed for every 2% missing health, for a maximum of 30% attack speed.",
+    "physicalPower": 40,
+    "magicalArmor": 30,
+    "critcalChance": 20
+  },
+  {
+    "name": "Sharpshooter Crest",
+    "extra": "Legendary Marksman: Restore 1 health when landing successful basic attacks against an Enemy Heroes and Monsters, or 6 health when killing an Enemy Unit. Upon restoring 400 health, return to base to evolve into a Legendary Crest.Creep Slayer: Deal 15 extra basic damage to Minions.",
+    "physicalPower": 10,
+    "attackSpeed": 10
+  },
+  {
+    "name": "Shortsword",
+    "extra": "",
+    "physicalPower": 8
+  },
+  {
+    "name": "Silentium",
+    "extra": "Active - Muzzle: Silence an Enemy Hero for 1.5s. If Muzzle interrupts an ability, deal 150 (+50% Magical Power)(+50% Bonus Physical Power) magical damage to the Target - 120s CD.Wealthy Pacifist: Increase Passive Gold Income by 50% and receive diminishing gold from excessive Minion kills.Visionary: Gain Solstone and increase your Ward Cap from 2 to 3.",
+    "magicalPower": 25,
+    "magicalArmor": 18,
+    "baseManaRegeneration": 75
+  },
+  {
+    "name": "Sky Splitter",
+    "extra": "Rend: Basic attacks deal 5% of the Target's current health as bonus physical damage on-hit and heal you equal to 50% of the bonus damage dealt.MPA: Rend's bonus damage deals a minimum of 10 and is capped at 50 against Monsters and Minions.",
+    "physicalPower": 25,
+    "attackSpeed": 25,
+    "critcalChance": 20,
+    "lifesteal": 5
+  },
+  {
+    "name": "Soul Chalice",
+    "extra": "Critical Font: Killing an Enemy Minion grants 8 bonus mana, up to a maximum of 400. At maximum stacks, gain 2.5% of your bonus mana as additional critical strike chance.",
+    "physicalPower": 15,
+    "mana": 150
+  },
+  {
+    "name": "Soulbearer",
+    "extra": "Active - Anima: Gain a (+25% maximum mana) shield, 20% magical lifesteal and 10% movement speed for 8s - 90 CD.Creep Slayer: Deal 40 extra basic damage to Minions.",
+    "magicalPower": 15,
+    "mana": 300,
+    "magicalPenetration": 8,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Spell Slasher",
+    "extra": "Spellblade: After using an ability, your next basic attack within 6s deals (+40% Total Physical Power) bonus physical damage - 1.5s CD."
+  },
+  {
+    "name": "Spellbreaker",
+    "extra": "Veil: Grants a Spell Shield that blocks the next Enemy ability - 60s CD.Malefic: Gain 20% increased magical power while Veil is active.",
+    "magicalPower": 60,
+    "magicalArmor": 35,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Spiked Birch",
+    "extra": "Blighted Spells: Dealing magical damage reduces the Target's Healing by 20% for 3s.",
+    "magicalPower": 35
+  },
+  {
+    "name": "Spirit Beads",
+    "extra": "",
+    "mana": 150
+  },
+  {
+    "name": "Stalwart Gauntlets",
+    "extra": "",
+    "health": 150,
+    "baseHealthRegeneration": 125
+  },
+  {
+    "name": "Stamina Tonic",
+    "extra": "Consume: Grants 300 health and 12 health regeneration for 5 minutes. Effect is lost upon death."
+  },
+  {
+    "name": "Steel Mail",
+    "extra": "",
+    "physicalArmor": 30
+  },
+  {
+    "name": "Stonewall",
+    "extra": "Shockwave: Taking damage that would reduce you below 40% maximum health unleashes a shockwave, Stunning all nearby Enemies for 1s - 90s CD.Bulwark: Take 10 (+7.5% Bonus Physical Armor)% decreased damage from physical abilities. ",
+    "health": 150,
+    "baseHealthRegeneration": 150,
+    "physicalArmor": 70
+  },
+  {
+    "name": "Storm Breaker",
+    "extra": "Chain Zap: Every fourth successful basic attack releases a bolt of lightning which leaps between 7 Targets, dealing 50 (+1.5 per 1% Critical Strike Chance) magical damage to each.",
+    "physicalPower": 25,
+    "attackSpeed": 40,
+    "critcalChance": 20,
+    "movementSpeed": 3
+  },
+  {
+    "name": "Strength Tonic",
+    "extra": "Consume: Grants 30 physical power and 10% omnivamp for 5 minutes. Effect is lost upon death."
+  },
+  {
+    "name": "Tainted Bastion",
+    "extra": "Blighted Veil: Receiving magical damage reduces the source's Healing by 40% for 3s.Colossus: Gain 5% damage mitigation, doubled vs. targets affected by Blight.",
+    "health": 350,
+    "baseHealthRegeneration": 150,
+    "magicalArmor": 30
+  },
+  {
+    "name": "Tainted Blade",
+    "extra": "Blighted Strikes: Dealing physical damage to an Enemy Target reduces their Healing by 40% for 3s.Hex: Damaging an Enemy Target affected by Blight with an ability deals an additional 20 physical damage and causes them to take 10% more damage for 3s - 1s CD.",
+    "physicalPower": 40,
+    "health": 200,
+    "ablityHaste": 15
+  },
+  {
+    "name": "Tainted Guard",
+    "extra": "Blighted Thorns: When hit by a basic attack, reduce the Source's Healing by 40% and apply a bleed dealing 30 (+21% Bonus Physical Armor) magical damage over 3s.",
+    "health": 350,
+    "physicalArmor": 40,
+    "ablityHaste": 15
+  },
+  {
+    "name": "Tainted Rounds",
+    "extra": "Blighted Strikes: Successful Basic Attacks reduce the Target's Healing by 40% for 3s.Wicked Strikes: Basic attacks deal (+12% Total Physical Power) magical damage on-hit, increasing by up to 100% based on the Target's missing health.",
+    "physicalPower": 25,
+    "attackSpeed": 35,
+    "critcalChance": 20
+  },
+  {
+    "name": "Tainted Scepter",
+    "extra": "Blighted Spells: Dealing magical damage to an Enemy Target reduces their Healing by 40% for 3s.Malice: Every second, gain a stack of Malice, up to a maximum of 15. Damaging an Enemy Hero with an ability consumes Malice to deal 5 true damage (+ 1% magical power) per stack. Takedowns grant maximum stacks of Malice instantly.",
+    "magicalPower": 70,
+    "health": 200,
+    "ablityHaste": 20
+  },
+  {
+    "name": "Tainted Totem",
+    "extra": "Chilling Blight: Nearby Enemy Heroes have their Healing reduced by 40% and are Slowed by 10%.Nirvana: Nearby Allied Heroes receive 15% increased Healing and Shielding.",
+    "physicalArmor": 35,
+    "magicalArmor": 30,
+    "baseManaRegeneration": 150,
+    "ablityHaste": 15
+  },
+  {
+    "name": "Tectonic Mallet",
+    "extra": "Magnitude: Gain 25% of your bonus movement speed as bonus physical power.Harmonic Absorber: While Slowed, gain 10% increased movement speed.",
+    "physicalPower": 35,
+    "magicalArmor": 30,
+    "omnivamp": 5,
+    "movementSpeed": 5
+  },
+  {
+    "name": "Tempest",
+    "extra": "Active - Overcharge: Overcharge for 8s causing lightning to zap up to 3 nearby Enemy Heroes each second, dealing 20 (+14% Magical Power) magical damage and healing you equal to the damage dealt. Multiple strikes against the same Target deal 50% reduced damage - 90s CD.Creep Slayer: Deal 40 extra basic damage to Minions.",
+    "magicalPower": 15,
+    "health": 150,
+    "magicalPenetration": 8,
+    "ablityHaste": 15
+  },
+  {
+    "name": "Temporal Ripper",
+    "extra": "",
+    "physicalPower": 20,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Tenacious Drape",
+    "extra": "",
+    "health": 150,
+    "movementSpeed": 15
+  },
+  {
+    "name": "Terminus",
+    "extra": "Anon: Excess healing from lifesteal is converted into a shield, up to (+80% Total Physical Power) total. The shield slowly decays after 15s of leaving combat.",
+    "physicalPower": 50,
+    "lifesteal": 15,
+    "critcalChance": 20
+  },
+  {
+    "name": "The Perforator",
+    "extra": "Calamity: Abilities deal 0% - 40% (based on 0-1600 maximum health difference) bonus physical damage against Enemy Heroes with greater maximum health than you.Desolate: Your physical damage ignores 35% of your target's physical armor (Before Penetration).",
+    "physicalPower": 50,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Flux Band",
+    "extra": "Active - Turntable: Mark your current location and gain 20% movement speed for 4s. After 4s, teleport back to the marked location and reset your basic ability cooldowns - 90s CD.Creep Slayer: Deal 40 extra basic damage to Minions.",
+    "magicalPower": 20,
+    "mana": 150,
+    "magicalPenetration": 8,
+    "ablityHaste": 15
+  },
+  {
+    "name": "Timewarp",
+    "extra": "Ferrumancer: Casting an ability grants you 6 magical power and 3 physical armor for 5s, stacking up to 5 times.Chime: Every 5s, subtract 0.5s from all current Ability Cooldowns.",
+    "magicalPower": 100,
+    "physicalArmor": 15,
+    "ablityHaste": 15
+  },
+  {
+    "name": "Titan Crest",
+    "extra": "Titan: After taking damage, heal 15 (+0.75% of Maximum Health) over 15s. This healing is doubled for 5s after killing an Enemy Unit. Upon restoring 400 health, evolves into Goliath Crest.Creep Slayer: Deal 20 extra basic damage to Minions.",
+    "health": 80
+  },
+  {
+    "name": "Tranquility",
+    "extra": "Active - Grace: Heal yourself and nearby Allied Heroes for 150 (+50% Magical Power) and grant affected Units 10% damage mitigation for 3s - 30s CD.Wealthy Pacifist: Increase Passive Gold Income by 50% and receive diminishing gold from excessive Minion kills.Visionary: Gain Solstone and increase your Ward Cap from 2 to 3.",
+    "magicalPower": 20,
+    "baseManaRegeneration": 50,
+    "ablityHaste": 20
+  },
+  {
+    "name": "Truesilver Bracelet",
+    "extra": "Reprisal: Casting your ultimate grants you a 250 (+15% Bonus Health) shield for 5s. While the shield holds, gain CC immunity. Upon removal, it explodes dealing magical damage to nearby Enemies for 60% of the initial strength - 40s CD.",
+    "magicalPower": 25,
+    "health": 200,
+    "magicalArmor": 25,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Tunic",
+    "extra": "",
+    "physicalArmor": 12
+  },
+  {
+    "name": "Typhoon",
+    "extra": "Cyclone: Basic attacks grant a stack of Cyclone for 3s, increasing your attack speed by 2 (+2% Magical Power)%. Cyclone stacks up to 6 times. Active - Mirage: When at maximum stacks of Cyclone, dash a short distance and reduce your current basic ability cooldowns by 3s - 30s CD.Creep Slayer: Deal 40 extra basic damage to Minions.",
+    "magicalPower": 20,
+    "health": 100,
+    "magicalPenetration": 8,
+    "attackSpeed": 15
+  },
+  {
+    "name": "Unbroken Will",
+    "extra": "Undying: When you are immobilized, take 20% decreased damage for 2s.Persistence: If you are immobilized or displaced, you restore +6% Maximum Health over 4s.",
+    "health": 350,
+    "baseHealthRegeneration": 150,
+    "magicalArmor": 30,
+    "movementSpeed": 15
+  },
+  {
+    "name": "Vanguardian",
+    "extra": "Vanguard: Receiving damage from an Enemy Hero grants you 30 physical armor and 30 magical armor for 4s. While active, damage received from Enemy Heroes refreshes the duration - 60s CD.Guardian: Nearby Allied Heroes gain 10 physical armor and 10 magical armor.",
+    "health": 300,
+    "magicalArmor": 30,
+    "movementSpeed": 30
+  },
+  {
+    "name": "Vanquisher",
+    "extra": "Arcane Power: Gain (+2% Maximum Mana) Physical Power.Annihilate: If you deal damage that would leave a Hero below 5% of their maximum health, execute them.",
+    "physicalPower": 45,
+    "mana": 200,
+    "physicalPenetration": 10
+  },
+  {
+    "name": "Violet Brooch",
+    "extra": "",
+    "health": 150,
+    "ablityHaste": 10
+  },
+  {
+    "name": "Viper",
+    "extra": "Corrode: Dealing damage to an Enemy Hero reduces their physical armor by 5% for 2s. Stacks up to 6 times.Diligence: Your Critical Strikes deal 15% more damage against Targets with 6 stacks of Corrode.",
+    "physicalPower": 40,
+    "critcalChance": 20,
+    "ablityHaste": 20
+  },
+  {
+    "name": "Vitality Beads",
+    "extra": "",
+    "health": 100
+  },
+  {
+    "name": "Void Crystal",
+    "extra": "Fiend: Dealing magical damage to an Enemy Hero increases your magical damage dealt by 3% for 5s, stacking up to 4 times.",
+    "magicalPower": 40,
+    "health": 150
+  },
+  {
+    "name": "Void Helm",
+    "extra": "Justicar: For every 40 magical damage received, gain 4 magical armor and 75% base health regeneration for 8s, stacking up to 8 times. At maximum stacks, gain 15% movement speed.",
+    "health": 500,
+    "magicalArmor": 25,
+    "ablityHaste": 15
+  },
+  {
+    "name": "Warden Crest",
+    "extra": "Legendary Guardian: Your next basic attack or damaging ability against an Enemy Target will restore 30 health and grant you 25 gold. Charges generate every 30s, up to a maximum of 3, and require a nearby Allied Hero within 3000u to activate. After granting 300 gold, return to base to evolve into a Legendary Crest.Pacifist: Receive diminishing gold from excessive Minion kills.Oracle: Gain Solstone upon completion of Legendary Guardian.",
+    "health": 120,
+    "baseHealthRegeneration": 50
+  },
+  {
+    "name": "Wardens Faith",
+    "extra": "Stalwart: Take 15% reduced damage from Critical Strikes. Retribution: When hit by a basic attack, reduce current basic ability cooldowns by 0.2s.",
+    "health": 300,
+    "physicalArmor": 70
+  },
+  {
+    "name": "Warlock Crest",
+    "extra": "Legendary Occultist: Restore 4 health each time you deal damage to an Enemy Hero or Monster with an ability (once per ability), or 6 health when killing an Enemy Unit. Upon restoring 300 health, return to base to evolve into a Legendary Crest.Creep Slayer: Deal 30 extra basic damage to Minions.",
+    "magicalPower": 12,
+    "health": 100,
+    "magicalPenetration": 4
+  },
+  {
+    "name": "Warrior Crest",
+    "extra": "Warrior: Upon dealing damage to an Enemy Hero or Monster, or killing an Enemy Unit, regenerate (+3% Maximum Health) over 15s. Upon restoring 400 health, evolves into Champion Crest.Creep Slayer: Deal 15 extra basic damage to Minions.",
+    "physicalPower": 6,
+    "health": 40
+  },
+  {
+    "name": "Wellspring",
+    "extra": "Vital Waters: Casting an ability heals nearby Allies for 40 (+20% Magical Power) over 2s.Soothing Waters: Vital Waters heals an additional 15% of your lowest Ally's maximum health. Basic attacks against Enemy Heroes reduce the cooldown of Soothing Waters by 1s - 15s CD.",
+    "magicalPower": 45,
+    "baseManaRegeneration": 100,
+    "healAndShieldPower": 20
+  },
+  {
+    "name": "Witchstalker",
+    "extra": "Active - Purifying Strike: Cleanse all Debuffs and empower your next basic attack or damaging ability against an Enemy Hero to deal 4% (+4% per effect removed) of their maximum health as bonus true damage, healing you for an equal amount - 150s CD.Creep Slayer: Deal 30 extra basic damage to Minions.",
+    "physicalPower": 15,
+    "ablityHaste": 10,
+    "physicalPenetration": 4,
+    "omnivamp": 6
+  },
+  {
+    "name": "Wizard Crest",
+    "extra": "Legendary Magician: Restore 5 mana each time you deal damage to an Enemy Hero or Monster with an ability (once per ability), or 8 mana when killing an Enemy Unit. Upon restoring 400 mana, return to base to evolve into a Legendary Crest.Creep Slayer: Deal 30 extra basic damage to Minions.",
+    "magicalPower": 12,
+    "mana": 120,
+    "magicalPenetration": 4
+  },
+  {
+    "name": "World Breaker",
+    "extra": "Fiend: Dealing magical damage to an Enemy Hero increases your magical damage dealt by 4% for 5s, stacking up to 5 times.Maya: Gain (+2% Maximum Health) bonus magical power.",
+    "magicalPower": 45,
+    "health": 300,
+    "movementSpeed": 30
+  },
+  {
+    "name": "Wraith Leggings",
+    "extra": "Spectre: Dealing damage to an Enemy Hero with an ability grants 100 movement speed for 1.5s.Carnage: Abilities deal an additional 20% magical damage against Enemy Heroes below 40% maximum health.",
+    "magicalPower": 80,
+    "magicalPenetration": 15
+  },
+  {
+    "name": "Wraps",
+    "extra": "",
+    "magicalArmor": 10
+  },
+  {
+    "name": "Zealous Tomahawk",
+    "extra": "Desolate: Your physical damage ignores 15% of your target's physical armor (Before Penetration).",
+    "physicalPower": 15
+  }
+]
